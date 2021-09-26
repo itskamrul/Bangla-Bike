@@ -1,0 +1,16 @@
+.total-calculation {
+    text-align: left;
+    /* text-align: center; */
+}
+
+.calculation-container {
+    background-color: aquamarine;
+    padding: 10px;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.selected-bike h4 {
+    text-align: center;
+}
